@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115818879903",
+    "project_id": "pawtalk-b14d6",
+    "storage_bucket": "pawtalk-b14d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115818879903:android:2904163f392eb5ed503baa",
+        "android_client_info": {
+          "package_name": "my.app.talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm_M53wGdVXdXYSVRIGp_zqR7bQslqCLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
